@@ -13,6 +13,7 @@
 		D4582A3626BB7432002DB6DF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D4582A3426BB7432002DB6DF /* Main.storyboard */; };
 		D4582A3826BB7433002DB6DF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D4582A3726BB7433002DB6DF /* Assets.xcassets */; };
 		D4582A3B26BB7433002DB6DF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D4582A3926BB7433002DB6DF /* LaunchScreen.storyboard */; };
+		D4582A4326BB7D9C002DB6DF /* landingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4582A4226BB7D9C002DB6DF /* landingViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		D4582A3726BB7433002DB6DF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D4582A3A26BB7433002DB6DF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D4582A3C26BB7433002DB6DF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D4582A4226BB7D9C002DB6DF /* landingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = landingViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				D4582A2E26BB7432002DB6DF /* AppDelegate.swift */,
 				D4582A3026BB7432002DB6DF /* SceneDelegate.swift */,
 				D4582A3226BB7432002DB6DF /* ViewController.swift */,
+				D4582A4226BB7D9C002DB6DF /* landingViewController.swift */,
 				D4582A3426BB7432002DB6DF /* Main.storyboard */,
 				D4582A3726BB7433002DB6DF /* Assets.xcassets */,
 				D4582A3926BB7433002DB6DF /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			files = (
 				D4582A3326BB7432002DB6DF /* ViewController.swift in Sources */,
 				D4582A2F26BB7432002DB6DF /* AppDelegate.swift in Sources */,
+				D4582A4326BB7D9C002DB6DF /* landingViewController.swift in Sources */,
 				D4582A3126BB7432002DB6DF /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
